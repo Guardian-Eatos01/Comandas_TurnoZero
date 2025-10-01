@@ -8,12 +8,12 @@ Este software foi feito sob medida, de forma simples e eficiente, permitindo con
 ## 📥 Download
 
 A versão mais recente do sistema está disponível na página de **Releases** do GitHub:  
-👉 [Clique aqui para baixar](https://github.com/SEU_USUARIO/turno-zero-app/releases)
+👉 [Clique aqui para baixar]([https://github.com/SEU_USUARIO/turno-zero-app/releases](https://github.com/Guardian-Eatos01/Comandas_TurnoZero/releases/tag/v1.0.0))
 
 Na seção de *Assets*, baixe o arquivo correspondente ao seu sistema operacional:
 
 - **Windows**: `TurnoZero.exe`  
-- **MacOS**: `TurnoZero.app` (ou `.dmg` caso esteja disponível)  
+- **MacOS**: `TurnoZero.app` 
 
 ---
 
@@ -35,9 +35,9 @@ Na seção de *Assets*, baixe o arquivo correspondente ao seu sistema operaciona
 - Histórico filtrável por **dia, mês, ano ou intervalo de datas**.
 - Exportação de relatórios em **CSV, JSON e PDF**.
 - Estatísticas automáticas:
-  - Produto mais vendido
-  - Quantidade total de itens vendidos
-  - Faturamento diário, mensal e anual
+- Produto mais vendido
+- Quantidade total de itens vendidos
+- Faturamento diário, mensal e anual
 - Interface intuitiva em abas (Tkinter).
 
 ---
@@ -45,7 +45,7 @@ Na seção de *Assets*, baixe o arquivo correspondente ao seu sistema operaciona
 ## 📖 Manual de Uso
 
 Para um guia detalhado de uso, consulte o arquivo:  
-📄 [Manual Completo - Turno Zero TCG (PDF)](manual_completo.pdf)
+📄 [Manual Completo - Turno Zero TCG (PDF)](https://github.com/Guardian-Eatos01/Comandas_TurnoZero/releases/download/v1.0.0/Manual_Usuario_TurnoZeroTCG.pdf)
 
 ---
 
