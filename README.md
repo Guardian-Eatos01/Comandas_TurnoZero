@@ -8,7 +8,7 @@ Este software foi feito sob medida, de forma simples e eficiente, permitindo con
 ## 📥 Download
 
 A versão mais recente do sistema está disponível na página de **Releases** do GitHub:  
-👉 [Clique aqui para baixar](https://github.com/SEU_USUARIO/turno-zero-app/releases](https://github.com/Guardian-Eatos01/Comandas_TurnoZero/releases/tag/v1.0.0))
+👉 [Clique aqui para baixar](https://github.com/Guardian-Eatos01/Comandas_TurnoZero/releases/tag/v1.0.0)
 
 Na seção de *Assets*, baixe o arquivo correspondente ao seu sistema operacional:
 
