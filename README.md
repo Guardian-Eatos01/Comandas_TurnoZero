@@ -8,7 +8,7 @@ Este software foi feito sob medida, de forma simples e eficiente, permitindo con
 ## 📥 Download
 
 A versão mais recente do sistema está disponível na página de **Releases** do GitHub:  
-👉 [Clique aqui para baixar]([https://github.com/SEU_USUARIO/turno-zero-app/releases](https://github.com/Guardian-Eatos01/Comandas_TurnoZero/releases/tag/v1.0.0))
+👉 [Clique aqui para baixar]([https://github.com/SEU_USUARIO/turno-zero-app/releases](https://github.com/Guardian-Eatos01/Comandas_TurnoZero/releases/tag/v1.0.0)])
 
 Na seção de *Assets*, baixe o arquivo correspondente ao seu sistema operacional:
 
@@ -47,12 +47,4 @@ Na seção de *Assets*, baixe o arquivo correspondente ao seu sistema operaciona
 Para um guia detalhado de uso, consulte o arquivo:  
 📄 [Manual Completo - Turno Zero TCG (PDF)](https://github.com/Guardian-Eatos01/Comandas_TurnoZero/releases/download/v1.0.0/Manual_Usuario_TurnoZeroTCG.pdf)
 
----
 
-## 🔒 Verificação de Integridade
-
-Para garantir que o arquivo baixado não foi alterado, você pode verificar o **hash SHA256**.  
-No Windows, execute no **Prompt de Comando**:
-
-```powershell
-CertUtil -hashfile TurnoZero.exe SHA256
